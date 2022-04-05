@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Link,Routes, Route, Switch } from 'react-router-dom';
+import { Link, Route, Switch } from 'react-router-dom';
 
 import LoaderDemo from './LoaderDemo/LoaderDemo.jsx';
 import RequireAuthDemo from './ProtectedRoutes/RequireAuthDemo.jsx';
